@@ -1,0 +1,3236 @@
+{
+  "madison street services building": {
+    "address": "620 S Madison St, Iowa City, IA 52240",
+    "coordinates": [
+      41.653733,
+      -91.537151
+    ]
+  },
+  "children's hospital": {
+    "address": "200 Hawkins Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.661621,
+      -91.549919
+    ]
+  },
+  "400 blk e washington st": {
+    "address": "400 E Washington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66008,
+      -91.530144
+    ]
+  },
+  "currier hall": {
+    "address": "100 Currier Hall, Iowa City, IA 52242",
+    "coordinates": [
+      41.666111,
+      -91.535
+    ]
+  },
+  "300 blk w grand avenue": {
+    "address": "300 Grand Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.658333,
+      -91.543611
+    ]
+  },
+  "200 blk e college st": {
+    "address": "200 E College St, Iowa City, IA 52240",
+    "coordinates": [
+      41.658889,
+      -91.5325
+    ]
+  },
+  "300 blk e burlington st": {
+    "address": "300 E Burlington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65788594188243,
+      -91.53167743291189
+    ]
+  },
+  "pappajohn pavilion": {
+    "address": "212 Medicine Admin Bldg, Iowa City, IA 52242",
+    "coordinates": [
+      41.65947305650332,
+      -91.54859887711395
+    ]
+  },
+  "1110 n dubuque street, bike rack": {
+    "address": "1110 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.659473,
+      -91.548599
+    ]
+  },
+  "500 blk e washington street": {
+    "address": "500 E Washington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66008937705455,
+      -91.52846338226941
+    ]
+  },
+  "catlett residence hall, ent": {
+    "address": "350 N Madison St, Iowa City, IA 52242",
+    "coordinates": [
+      41.665210589884595,
+      -91.5372798624086
+    ]
+  },
+  "260 hawkeye court": {
+    "address": "260 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66761447790988,
+      -91.57219607651875
+    ]
+  },
+  "nonfiction writing house": {
+    "address": "530 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.667807630327246,
+      -91.53416829873815
+    ]
+  },
+  "225 n clinton street, bike rack": {
+    "address": "225 N Clinton St, Iowa City, IA 52242",
+    "coordinates": [
+      41.66450346922215,
+      -91.53523185803216
+    ]
+  },
+  "413 n clinton street, bike rack": {
+    "address": "413 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66639407689833,
+      -91.53511295492252
+    ]
+  },
+  "100 blk n madison st": {
+    "address": "100 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.6625216278633,
+      -91.53768004859582
+    ]
+  },
+  "biology building east, exterior": {
+    "address": "30 N Dubuque St, Iowa City, IA 52242",
+    "coordinates": [
+      41.662205,
+      -91.532807
+    ]
+  },
+  "100 blk e market st": {
+    "address": "100 E Market St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66360408498934,
+      -91.53457810656762
+    ]
+  },
+  "dental science building": {
+    "address": "801 Newton Rd, Iowa City, IA 52246",
+    "coordinates": [
+      41.662564235819495,
+      -91.55115643717102
+    ]
+  },
+  "mormon handcart park": {
+    "address": "The University of Iowa, Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66566582971536,
+      -91.57458611150669
+    ]
+  },
+  "theatre building, n bike rack": {
+    "address": "200 N Riverside Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.66670371953583,
+      -91.5393779104274
+    ]
+  },
+  "washington county hospital - uihc - aircare": null,
+  "english-philosophy building": {
+    "address": "251 W Iowa Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.66080145583291,
+      -91.53992334583248
+    ]
+  },
+  "pearl softball field": {
+    "address": "2001 US-6, Iowa City, IA 52242",
+    "coordinates": [
+      41.66766560044301,
+      -91.56539927466797
+    ]
+  },
+  "iowa city": null,
+  "hospital parking ramp 4 - mapf": {
+    "address": "Parking Ramp 4 39 For The Kids Way, Melrose Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.657824828056924,
+      -91.54728821777259
+    ]
+  },
+  "college of pharmacy building": {
+    "address": "180 S Grand Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.65961158685986,
+      -91.54543789001163
+    ]
+  },
+  "108 river street": {
+    "address": "108 River St, Iowa City, IA 52246",
+    "coordinates": [
+      41.66689450063499,
+      -91.54132050350383
+    ]
+  },
+  "beta theta pi,": {
+    "address": "816 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.670735806720096,
+      -91.53262255649346
+    ]
+  },
+  "10 blk e market st": {
+    "address": "10 E Market St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66361158785302,
+      -91.5359643949999
+    ]
+  },
+  "lot 84 - plaza ramp": {
+    "address": "540 E Jefferson St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66298861966476,
+      -91.5282642590529
+    ]
+  },
+  "200 blk s clinton": {
+    "address": "200 S Clinton St, Iowa City, IA 52240",
+    "coordinates": [
+      41.658948109499036,
+      -91.53461801771522
+    ]
+  },
+  "800 blk n dubuque st": {
+    "address": "800 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.67022941551493,
+      -91.53294992038747
+    ]
+  },
+  "macbride hall, bike rack": {
+    "address": "Macbride Hall, 17 N Clinton St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66191794739508,
+      -91.53565928224363
+    ]
+  },
+  "100 blk e college st,": {
+    "address": "100 E College St, Iowa City, IA 52240",
+    "coordinates": [
+      41.658790734038845,
+      -91.53429987466838
+    ]
+  },
+  "hawkeye recreation fields": {
+    "address": "2960 Hawkeye Park Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.66557137127134,
+      -91.57735906117554
+    ]
+  },
+  "605 melrose avenue": {
+    "address": "605 Melrose Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.656638735110505,
+      -91.5471109900118
+    ]
+  },
+  "sand road service building": {
+    "address": "1 W Prentiss St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65411173239274,
+      -91.53693578857478
+    ]
+  },
+  "10 blk s madison st": {
+    "address": "10 S Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66116438666642,
+      -91.53767357466825
+    ]
+  },
+  "greek housing": null,
+  "172 hawkeye court": {
+    "address": "172 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.666075041707046,
+      -91.57255900350386
+    ]
+  },
+  "1200 blk n dubuque st": {
+    "address": "1200 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.678092671269745,
+      -91.53161971884656
+    ]
+  },
+  "500 blk e jefferson street": {
+    "address": "500 E Jefferson St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66240894079488,
+      -91.52863544583244
+    ]
+  },
+  "uihc medical center downtown": {
+    "address": "500 E Market St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66430587127134,
+      -91.5284493611756
+    ]
+  },
+  "204 hawkeye court": {
+    "address": "204 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66655765654853,
+      -91.57333656117547
+    ]
+  },
+  "451 newton road": {
+    "address": "451 Newton Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.661391440541664,
+      -91.54629257466831
+    ]
+  },
+  "art building, exterior": {
+    "address": "The University of Iowa, Art Building, 120 N Riverside Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.664242052562315,
+      -91.54037708813166
+    ]
+  },
+  "general hospital": {
+    "address": "200 Hawkins Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.65925130751462,
+      -91.54838219552094
+    ]
+  },
+  "2700 college road, clark hall": null,
+  "north hall": {
+    "address": "20 Davenport St, Iowa City, IA 52242",
+    "coordinates": [
+      41.666024776021715,
+      -91.53663484685674
+    ]
+  },
+  "daum hall,": {
+    "address": "225 N Clinton St, Iowa City, IA 52242",
+    "coordinates": [
+      41.664350401474294,
+      -91.53509392863832
+    ]
+  },
+  "alpha chi omega": {
+    "address": "828 E Washington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66025626832149,
+      -91.523189931876
+    ]
+  },
+  "130 hawkeye court": {
+    "address": "130 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66536543076458,
+      -91.57089403233972
+    ]
+  },
+  "102 hawkeye court": {
+    "address": "102 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.664850756336456,
+      -91.57284140350396
+    ]
+  },
+  "iatl madison st parking meters": {
+    "address": "205 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66408381557517,
+      -91.53778472523082
+    ]
+  },
+  "duane banks field": {
+    "address": "960 Evashevski Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.660853163887865,
+      -91.55502316117575
+    ]
+  },
+  "lindquist center, exterior": {
+    "address": "240 S Madison St, Iowa City, IA 52242",
+    "coordinates": [
+      41.65865966236292,
+      -91.53758074154744
+    ]
+  },
+  "hospital parking ramp 3": {
+    "address": "800 Evashevski Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.66018941219975,
+      -91.55068117061212
+    ]
+  },
+  "jacobson athletic building": {
+    "address": "950 Evashevski Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.66053928970794,
+      -91.55383586403443
+    ]
+  },
+  "600 blk w melrose ave": {
+    "address": "1300 Melrose Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.655868726213534,
+      -91.56025380018944
+    ]
+  },
+  "300 blk e market st": {
+    "address": "300 E Market St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66376423449835,
+      -91.53142988030119
+    ]
+  },
+  "600 blk w newton rd": {
+    "address": "600 Newton Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.66244688396124,
+      -91.54759403892278
+    ]
+  },
+  "100 blk w washington st": {
+    "address": "100 W Washington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66014012413463,
+      -91.53635019701278
+    ]
+  },
+  "300 blk n dubuque st": {
+    "address": "300 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66468853057602,
+      -91.53306489745475
+    ]
+  },
+  "300 blk n gilbert street,": {
+    "address": "300 N Gilbert St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66467000158758,
+      -91.5301086722471
+    ]
+  },
+  "university capitol centre": {
+    "address": "University Capitol Center, 201 S Clinton St, Iowa City, IA 52240",
+    "coordinates": [
+      41.659443908846214,
+      -91.53544971884746
+    ]
+  },
+  "400 blk e market st": {
+    "address": "400 E Market St, Iowa City, IA 52245",
+    "coordinates": [
+      41.663552050731475,
+      -91.53015013890258
+    ]
+  },
+  "medical research center": {
+    "address": "501 Newton Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.66114518666882,
+      -91.54623824583244
+    ]
+  },
+  "600 blk n dubuque st": {
+    "address": "600 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.667996966202665,
+      -91.53303616046686
+    ]
+  },
+  "100 blk e court st": {
+    "address": "100 E Court St, Iowa City, IA 52240",
+    "coordinates": [
+      41.656609171272315,
+      -91.53464447466845
+    ]
+  },
+  "medical education research facility": {
+    "address": "375 Newton Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.66270028401175,
+      -91.54519288311215
+    ]
+  },
+  "doubletree sea world": null,
+  "10 blk s riverside dr": {
+    "address": "10 S Riverside Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.661202538657186,
+      -91.5421603996783
+    ]
+  },
+  "100 blk e washington st": {
+    "address": "100 E Washington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66009513727511,
+      -91.534605954954
+    ]
+  },
+  "ui health care - muscatine": null,
+  "lot 72 - dubuque street ramp": {
+    "address": "220 S Dubuque St, Iowa City, IA 52240",
+    "coordinates": [
+      41.6581649028093,
+      -91.53299524768333
+    ]
+  },
+  "gamma phi beta": {
+    "address": "328 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66556945642589,
+      -91.53426045138445
+    ]
+  },
+  "adler journalism and mass communication building, north side exterior": {
+    "address": "140 W Washington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.661012492668284,
+      -91.53879664404556
+    ]
+  },
+  "10 blk s gilbert st": {
+    "address": "10 S Gilbert St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66099877127179,
+      -91.5298980323399
+    ]
+  },
+  "150 s grand ave": {
+    "address": "150 S Grand Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.65780807274541,
+      -91.54558463359162
+    ]
+  },
+  "300 blk e iowa ave": {
+    "address": "300 W Iowa Ave, Iowa City, IA 52245",
+    "coordinates": [
+      41.661229263653304,
+      -91.54049063733217
+    ]
+  },
+  "200 blk e burlington st": {
+    "address": "200 E Burlington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65786197127206,
+      -91.53314197466847
+    ]
+  },
+  "300 blk e washington st": {
+    "address": "300 E Washington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66009749044108,
+      -91.53164761803994
+    ]
+  },
+  "10 blk e washington st": {
+    "address": "10 E Washington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.660137967402434,
+      -91.53601122022299
+    ]
+  },
+  "calvin hall": {
+    "address": "16 W Jefferson St, Iowa City, IA 52242",
+    "coordinates": [
+      41.66281916910804,
+      -91.53647673199566
+    ]
+  },
+  "bowen science building": {
+    "address": "51 Newton Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.6616874625651,
+      -91.54444929969068
+    ]
+  },
+  "gilmore hall, exterior": {
+    "address": "112 N Capitol St, Iowa City, IA 52242",
+    "coordinates": [
+      41.66285245541338,
+      -91.53604626839169
+    ]
+  },
+  "seamans center": {
+    "address": "103 S Capitol St, Iowa City, IA 52242",
+    "coordinates": [
+      41.659654624529765,
+      -91.53677286117583
+    ]
+  },
+  "100 blk s clinton st": {
+    "address": "100 S Clinton St, Iowa City, IA 52240",
+    "coordinates": [
+      41.660087622863536,
+      -91.53461698846543
+    ]
+  },
+  "hawkeye tennis and recreation complex, parking lot": {
+    "address": "2820 Prairie Meadow Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.661741996757435,
+      -91.57969407173998
+    ]
+  },
+  "carver biomedical research building": {
+    "address": "285 Newton Rd, Iowa City, IA 52246",
+    "coordinates": [
+      41.66312959592812,
+      -91.5439709134016
+    ]
+  },
+  "north hall,": {
+    "address": "20 Davenport St, Iowa City, IA 52242",
+    "coordinates": [
+      41.666024776021715,
+      -91.53663484685674
+    ]
+  },
+  "delta sigma phi": {
+    "address": "308 Ridgeland Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.66776077589873,
+      -91.54106859046269
+    ]
+  },
+  "center for disabilities and development": {
+    "address": "100 Hawkins Dr, Iowa City, IA 52242  ",
+    "coordinates": [
+      41.66151338662299,
+      -91.54984263233987
+    ]
+  },
+  "beckwith boathouse": {
+    "address": "Beckwith Boat House, 1201 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.677046344437585,
+      -91.53448303233915
+    ]
+  },
+  "200 blk n dubuque st, market/dubuque": {
+    "address": "200 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66356610580936,
+      -91.53306580287564
+    ]
+  },
+  "anne cleary walkway, bike rack": {
+    "address": "10 W Market St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66311864576587,
+      -91.53626265154223
+    ]
+  },
+  "main library, bike rack": {
+    "address": "125 W Washington St, Iowa City, IA 52242",
+    "coordinates": [
+      41.65886318942443,
+      -91.5380841027368
+    ]
+  },
+  "performing arts annex, parking lot": {
+    "address": "150 N Riverside Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.665523828890166,
+      -91.54053724204854
+    ]
+  },
+  "100 blk n gilbert street": {
+    "address": "100 N Gilbert St, Iowa City, IA 52245",
+    "coordinates": [
+      41.662413999412955,
+      -91.53014424880499
+    ]
+  },
+  "van allen hall": {
+    "address": "30 N Dubuque St, Iowa City, IA 52242",
+    "coordinates": [
+      41.66220192206484,
+      -91.53283229279212
+    ]
+  },
+  "pi beta phi": {
+    "address": "815 E Washington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65969472577758,
+      -91.52363348912462
+    ]
+  },
+  "biology building east, bike rack": {
+    "address": "30 N Dubuque St, Iowa City, IA 52242",
+    "coordinates": [
+      41.66146078845398,
+      -91.53276617739405
+    ]
+  },
+  "10 blk n riverside dr": {
+    "address": "10 N Riverside Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.662781450051014,
+      -91.54179034076905
+    ]
+  },
+  "boyd law building footbridge": {
+    "address": "130 Byington Rd, Iowa City, IA 52246",
+    "coordinates": [
+      41.65797847484254,
+      -91.54267057669638
+    ]
+  },
+  "lot 33 - dental patients & visitors": {
+    "address": "10 Elliott Drive, Iowa City, IA 52242",
+    "coordinates": [
+      41.663250328476444,
+      -91.55254121887123
+    ]
+  },
+  "400 blk n clinton st": {
+    "address": "400 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.665989741685934,
+      -91.53422944768296
+    ]
+  },
+  "boyd law building": {
+    "address": "130 Byington Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.65748313469003,
+      -91.54281436117593
+    ]
+  },
+  "stanley museum of art, exterior": {
+    "address": "160 W Burlington St, Iowa City, IA 52242",
+    "coordinates": [
+      41.65827888742263,
+      -91.53858592415838
+    ]
+  },
+  "6301 kirkwood blvd sw": null,
+  "100 blk s linn st": {
+    "address": "100 S Linn St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65993800236769,
+      -91.53143441699669
+    ]
+  },
+  "carver-hawkeye arena": {
+    "address": "1 Elliott Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.66381804660363,
+      -91.55464761884724
+    ]
+  },
+  "10 blk hawkins dr": {
+    "address": "10 Hawkins Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.65689727127211,
+      -91.54989164583269
+    ]
+  },
+  "aspire at west campus": {
+    "address": "158 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66718190056344,
+      -91.572017374668
+    ]
+  },
+  "aspire building b5": {
+    "address": "228 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.667591412805024,
+      -91.57346713109455
+    ]
+  },
+  "lot 75 - arena commuter lot shelter": {
+    "address": "1139 Hawkins Dr Iowa City, IA 52246",
+    "coordinates": [
+      41.66231744131622,
+      -91.55710057575617
+    ]
+  },
+  "stanley museum of art": {
+    "address": "160 W Burlington St, Iowa City, IA 52242",
+    "coordinates": [
+      41.65838095553187,
+      -91.53886740350427
+    ]
+  },
+  "adler journalism and mass communication building": {
+    "address": "140 W Washington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66094913296407,
+      -91.53883193233999
+    ]
+  },
+  "president's residence, retaining wall": {
+    "address": "102 Church St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66827216008483,
+      -91.5340923670649
+    ]
+  },
+  "800 blk w melrose ave": {
+    "address": "800 Melrose Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.65688567127223,
+      -91.54995601884758
+    ]
+  },
+  "100 blk e davenport st": {
+    "address": "100 E Davenport St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66583423053115,
+      -91.53407720350386
+    ]
+  },
+  "state hygienic laboratory": {
+    "address": "2490 Crosspark Rd, Coralville, IA 52241",
+    "coordinates": [
+      41.70768452889134,
+      -91.60671836117349
+    ]
+  },
+  "schaeffer hall": {
+    "address": "20 E Washington St, Iowa City, IA 52242",
+    "coordinates": [
+      41.660701971271784,
+      -91.53567934583252
+    ]
+  },
+  "lot 49": {
+    "address": "49 Melrose Pl, Iowa City, IA 52246",
+    "coordinates": [
+      41.65638756669904,
+      -91.54975766971322
+    ]
+  },
+  "west side residence hall": {
+    "address": "304 Grand Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.658812046605576,
+      -91.54398696777045
+    ]
+  },
+  "10 blk n madison st": {
+    "address": "10 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.661593536303265,
+      -91.5376951927382
+    ]
+  },
+  "campus": null,
+  "skunk hollow": null,
+  "500 blk n clinton st": {
+    "address": "500 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66724337198678,
+      -91.53415201233312
+    ]
+  },
+  "350 n madison street, bike rack": {
+    "address": "350 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.6650291788963,
+      -91.53747361186433
+    ]
+  },
+  "ui health care medical center downtown": {
+    "address": "500 E Market St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66429776341068,
+      -91.52842035431749
+    ]
+  },
+  "mormon hankcart park": {
+    "address": "The University of Iowa, Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66732862838112,
+      -91.57534706864439
+    ]
+  },
+  "lindquist center": {
+    "address": "240 S Madison St, Iowa City, IA 52242",
+    "coordinates": [
+      41.658661347461454,
+      -91.53729655358941
+    ]
+  },
+  "413 n clinton street": {
+    "address": "413 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.666365041779315,
+      -91.53512883233964
+    ]
+  },
+  "600 blk hawkins dr": {
+    "address": "600 Hawkins Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.659544289413304,
+      -91.54990891968063
+    ]
+  },
+  "afro-american cultural center": {
+    "address": "303 Melrose Ave #3306, Iowa City, IA 52246",
+    "coordinates": [
+      41.65656658567122,
+      -91.54350175870195
+    ]
+  },
+  "uihc integrated services center": {
+    "address": "2441 Crosspark Rd, Coralville, IA 52241",
+    "coordinates": [
+      41.70666266813572,
+      -91.6031095048877
+    ]
+  },
+  "dubuque/washington": {
+    "address": "100 S Dubuque St, Iowa City, IA 52240",
+    "coordinates": [
+      41.660124655631385,
+      -91.53312563006622
+    ]
+  },
+  "800 blk e burlington st": {
+    "address": "800 E Burlington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.657795071272126,
+      -91.52433977466842
+    ]
+  },
+  "100 blk s dubuque st": {
+    "address": "100 S Dubuque St, Iowa City, IA 52240",
+    "coordinates": [
+      41.660160733356705,
+      -91.5331074035041
+    ]
+  },
+  "100 blk s madison st": {
+    "address": "100 S Madison St, Iowa City, IA 52242",
+    "coordinates": [
+      41.66012977127176,
+      -91.5377199611758
+    ]
+  },
+  "briar cliff college, heelan hall": null,
+  "ui campus safety": {
+    "address": "200 S Capitol St, Iowa City, IA 52242",
+    "coordinates": [
+      41.658971714997804,
+      -91.53599920379594
+    ]
+  },
+  "east side residential hall": {
+    "address": "301 N Clinton St, Iowa City, IA 52242",
+    "coordinates": [
+      41.66493221420218,
+      -91.53563393479783
+    ]
+  },
+  "lamba chi alpha": {
+    "address": "222 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66420973216359,
+      -91.53412583076272
+    ]
+  },
+  "lot 92 - tower place ramp": {
+    "address": "1 S Gilbert St, Iowa City, IA 52240",
+    "coordinates": [
+      41.661004633894834,
+      -91.53118614071745
+    ]
+  },
+  "13-14 melrose place": {
+    "address": "13 Melrose Pl, Iowa City, IA 52246",
+    "coordinates": [
+      41.656134903476946,
+      -91.54986165734407
+    ]
+  },
+  "100 blk n clinton st": {
+    "address": "100 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66246865604021,
+      -91.53459743233984
+    ]
+  },
+  "100 blk s clinton": {
+    "address": "100 S Clinton St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66013043337178,
+      -91.53460637466834
+    ]
+  },
+  "lindquist center, south sidewalk": {
+    "address": "240 S Madison St, Iowa City, IA 52242",
+    "coordinates": [
+      41.657992361433074,
+      -91.53728527629355
+    ]
+  },
+  "delta delta delta": {
+    "address": "522 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66758767127105,
+      -91.53407363233961
+    ]
+  },
+  "aspire building b1": {
+    "address": "144 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66536310336026,
+      -91.57308272376595
+    ]
+  },
+  "180 s grand ave": {
+    "address": "180 S Grand Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.65961158685986,
+      -91.54541643234
+    ]
+  },
+  "lot 11": {
+    "address": "500 S Madison St, Iowa City, IA 52242",
+    "coordinates": [
+      41.65590905424985,
+      -91.53707670964641
+    ]
+  },
+  "uihc - des moines administrative office": null,
+  "mayflower hall": {
+    "address": "100 Mayflower Hall, Iowa City, IA 52242",
+    "coordinates": [
+      41.67685199815452,
+      -91.53172973233919
+    ]
+  },
+  "lot 56": {
+    "address": "100 Mayflower Hall, Iowa City, IA 52242",
+    "coordinates": [
+      41.676723929652574,
+      -91.53106027458763
+    ]
+  },
+  "imu footbridge": {
+    "address": "200-298 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.663640198117996,
+      -91.53964786026214
+    ]
+  },
+  "byington/grand": {
+    "address": "140 Byington Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.65838118507268,
+      -91.54368887472847
+    ]
+  },
+  "hoak family golf complex": {
+    "address": "1380 Melrose Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.6569985126981,
+      -91.56461499385152
+    ]
+  },
+  "tau kappa epsilon": {
+    "address": "320 Ellis Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.66821575675494,
+      -91.54175606302611
+    ]
+  },
+  "alpha delta phi": {
+    "address": "111 E Bloomington St, Iowa City, IA 52245",
+    "coordinates": [
+      41.664535247218225,
+      -91.53383308661498
+    ]
+  },
+  "10 blk w washington st": {
+    "address": "10 W Washington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66011514022404,
+      -91.53635443233999
+    ]
+  },
+  "200 blk e jefferson st": {
+    "address": "200 E Jefferson St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66245004080501,
+      -91.53309183233984
+    ]
+  },
+  "lot 62 - capitol street ramp": {
+    "address": "220S N Capitol St, Iowa City, IA 52240",
+    "coordinates": [
+      41.658448569628796,
+      -91.53541920943253
+    ]
+  },
+  "10 blk w burlington st": {
+    "address": "10 W Burlington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65791104022029,
+      -91.53631590767475
+    ]
+  },
+  "200 blk n riverside dr": {
+    "address": "200 N Riverside Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.66671623009201,
+      -91.53944407651876
+    ]
+  },
+  "phillips hall": {
+    "address": "16 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66168178336589,
+      -91.53431471524507
+    ]
+  },
+  "300 blk w grand ave": {
+    "address": "300 S Grand Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.65883141288333,
+      -91.5456588513843
+    ]
+  },
+  "2260 old farmstead road": {
+    "address": "2260 Old Farmstead Rd, Coralville, IA 52241",
+    "coordinates": [
+      41.70476547059145,
+      -91.6059070301977
+    ]
+  },
+  "100 blk e jefferson st": {
+    "address": "100 E Jefferson St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66250855811282,
+      -91.53455016498269
+    ]
+  },
+  "100 blk e burlington st": {
+    "address": "100 E Burlington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65792166607756,
+      -91.53462437466841
+    ]
+  },
+  "10 blk s clinton st": {
+    "address": "10 S Clinton St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66091271014261,
+      -91.53428137466832
+    ]
+  },
+  "kinnick stadium": {
+    "address": "825 Stadium Dr, Iowa City, IA 52240",
+    "coordinates": [
+      41.65851823982675,
+      -91.55110220350427
+    ]
+  },
+  "100 blk e college st": {
+    "address": "100 E College St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65897538635312,
+      -91.53439569293478
+    ]
+  },
+  "visual arts building": {
+    "address": "107 River St, Iowa City, IA 52242",
+    "coordinates": [
+      41.66614315953913,
+      -91.54160408233973
+    ]
+  },
+  "aspire building a3 - 130 hawkeye court ,": {
+    "address": "130 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66542075504311,
+      -91.57090711939779
+    ]
+  },
+  "158 hawkeye ct, cambus": {
+    "address": "158 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.665844539433486,
+      -91.57394901681823
+    ]
+  },
+  "biology building, bike rack": {
+    "address": "30 N Dubuque St, Iowa City, IA 52242",
+    "coordinates": [
+      41.662205,
+      -91.532807
+    ]
+  },
+  "601 hwy 6 w": {
+    "address": "601 US-6, Iowa City, IA 52246",
+    "coordinates": [
+      41.663861643101164,
+      -91.54778248661493
+    ]
+  },
+  "ui health care - 10th street": null,
+  "lot 43 s": {
+    "address": "1050 Evashevski Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.657344542472465,
+      -91.55123223272885
+    ]
+  },
+  "imu madison st parking meters": {
+    "address": "125 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66326268247266,
+      -91.53777975419403
+    ]
+  },
+  "biology building east": {
+    "address": "30 N Dubuque St, Iowa City, IA 52242",
+    "coordinates": [
+      41.662205,
+      -91.532807
+    ]
+  },
+  "beta theta pi": {
+    "address": "816 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.670784028065945,
+      -91.5326702188469
+    ]
+  },
+  "blank honors center": {
+    "address": "221 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66439060125874,
+      -91.53564770350395
+    ]
+  },
+  "petersen residence hall": {
+    "address": "304 Grand Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.65883380264281,
+      -91.54401363234001
+    ]
+  },
+  "ui sports medicine surface lot": {
+    "address": "2701 Prairie Meadow Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.659544217658315,
+      -91.57762756923664
+    ]
+  },
+  "301 n clinton st": {
+    "address": "301 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66517863085765,
+      -91.53522217466809
+    ]
+  },
+  "chemistry building": {
+    "address": "230 N Madison St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66401749161308,
+      -91.53630991400604
+    ]
+  },
+  "lot 13": {
+    "address": "15 Byington Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.66021664024937,
+      -91.54373316699667
+    ]
+  },
+  "ui childrens hospital pediatrics - north liberty": {
+    "address": "1765 Lininger Ln, North Liberty, IA 52317",
+    "coordinates": [
+      41.75282612974531,
+      -91.62937847903127
+    ]
+  },
+  "sigma pi": {
+    "address": "630 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.6687825009196,
+      -91.53274362084895
+    ]
+  },
+  "adler journalism and mass communication building, bike rack": {
+    "address": "140 W Washington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.6603314114292,
+      -91.53855412003452
+    ]
+  },
+  "field house, bike rack": {
+    "address": "225 S Grand Ave, Iowa City, IA 52240",
+    "coordinates": [
+      41.658279955154256,
+      -91.5461614050189
+    ]
+  },
+  "300 blk s clinton st": {
+    "address": "300 S Clinton St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65756670295833,
+      -91.53430844583264
+    ]
+  },
+  "200 blk s clinton st": {
+    "address": "200 S Clinton St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65891882425512,
+      -91.53462730350418
+    ]
+  },
+  "900 blk w melrose ave": {
+    "address": "900 Melrose Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.65568251950667,
+      -91.55255176117596
+    ]
+  },
+  "intercontinental miamai": null,
+  "200 blk s linn st": {
+    "address": "200 S Linn St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65869077720975,
+      -91.53140707365372
+    ]
+  },
+  "500 blk n dubuque st": {
+    "address": "500 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66686914190476,
+      -91.53302600350386
+    ]
+  },
+  "iowa memorial union, madison st": {
+    "address": "125 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66293355527105,
+      -91.53788882156009
+    ]
+  },
+  "lot 84 - plaza ramp,": {
+    "address": "540 E Jefferson St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66298861966476,
+      -91.5282642590529
+    ]
+  },
+  "aspire building b4": {
+    "address": "260 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.667364540608666,
+      -91.5721193895299
+    ]
+  },
+  "institute for rural and environmental health": {
+    "address": "2420 Old Farmstead Rd, Coralville, IA 52241",
+    "coordinates": [
+      41.70723341877229,
+      -91.60461774777173
+    ]
+  },
+  "power plant": {
+    "address": "207 W Burlington St, Iowa City, IA 52242",
+    "coordinates": [
+      41.657338528920555,
+      -91.54002752728361
+    ]
+  },
+  "ui quickcare -east": {
+    "address": "1632 Sycamore St, Iowa City, IA 52240",
+    "coordinates": [
+      41.642340360982374,
+      -91.50812200608216
+    ]
+  },
+  "lot 65 - finkbine commuter": {
+    "address": "201 Finkbine Commuter Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.66132752515432,
+      -91.56112788048918
+    ]
+  },
+  "mnra - iowa raptor project offices": null,
+  "aspire building a2": {
+    "address": "116 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.665089550675766,
+      -91.57199250220698
+    ]
+  },
+  "lot 36": {
+    "address": "715 S Dubuque St, Iowa City, IA 52242",
+    "coordinates": [
+      41.652884462153764,
+      -91.53416288863079
+    ]
+  },
+  "301 n clinton street": {
+    "address": "301 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.665152254683015,
+      -91.53522594606694
+    ]
+  },
+  "300 blk w melrose ave": {
+    "address": "300 Melrose Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.65698308269972,
+      -91.54369180350432
+    ]
+  },
+  "lindquist center, ext east side": {
+    "address": "240 S Madison St, Iowa City, IA 52242",
+    "coordinates": [
+      41.65888040938365,
+      -91.53697402282448
+    ]
+  },
+  "200 blk s van buren st": {
+    "address": "200 S Van Buren St, Iowa City, IA 52240",
+    "coordinates": [
+      41.658966118280084,
+      -91.52870240350421
+    ]
+  },
+  "plaza centre one": {
+    "address": "125 S Dubuque St #200, Iowa City, IA 52240",
+    "coordinates": [
+      41.65921491645882,
+      -91.53352216134512
+    ]
+  },
+  "imur ramp": {
+    "address": "120 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66320803476969,
+      -91.53739655486943
+    ]
+  },
+  "ed parking lot,": {
+    "address": "500 E Market St, Iowa City, IA 52245",
+    "coordinates": [
+      41.664029194484336,
+      -91.52786852134085
+    ]
+  },
+  "10 blk w iowa ave": {
+    "address": "10 W Iowa Ave, Iowa City, IA 52245",
+    "coordinates": [
+      41.661338355899645,
+      -91.53767787466828
+    ]
+  },
+  "art building": {
+    "address": "The University of Iowa, Art Building, 120 N Riverside Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.66427851594477,
+      -91.54051060122764
+    ]
+  },
+  "presidents residence": {
+    "address": "102 Church St, Iowa City, IA 52245",
+    "coordinates": [
+      41.6682612022473,
+      -91.53408776792321
+    ]
+  },
+  "imur ramp, bike rack": {
+    "address": "120 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66320327490266,
+      -91.5370291484377
+    ]
+  },
+  "medical research facility": {
+    "address": "55 S Grand Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.66031682815614,
+      -91.5475491931364
+    ]
+  },
+  "2555 prairie meadows dr": {
+    "address": "2555 Prairie Meadow Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.65843458460327,
+      -91.5763330010527
+    ]
+  },
+  "cdc parking meters": {
+    "address": "100 Hawkins Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.66173758325696,
+      -91.55031914587131
+    ]
+  },
+  "rienow hall": {
+    "address": "320 Grand Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.658917090139,
+      -91.54519914913759
+    ]
+  },
+  "200 blk e iowa ave": {
+    "address": "200 Iowa Ave, Iowa City, IA 52240",
+    "coordinates": [
+      41.66126373922863,
+      -91.53307605136716
+    ]
+  },
+  "304 grand avenue": {
+    "address": "304 Grand Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.65881107127191,
+      -91.54396430350425
+    ]
+  },
+  "uihc 2nd street warehouse": {
+    "address": "3400 2nd St, Coralville, IA 52241",
+    "coordinates": [
+      41.69848442653428,
+      -91.62763902132302
+    ]
+  },
+  "500 blk s capitol st": {
+    "address": "500 S Capitol St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65551848736992,
+      -91.53625309001183
+    ]
+  },
+  "off campus": null,
+  "campus recreation and wellness center": {
+    "address": "309 S Madison St, Iowa City, IA 52242",
+    "coordinates": [
+      41.657648611261735,
+      -91.53801229278848
+    ]
+  },
+  "100 blk n linn street": {
+    "address": "100 N Linn St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66243762080717,
+      -91.53161226457313
+    ]
+  },
+  "adler journalism and mass communication building, exterior": {
+    "address": "140 W Washington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.660398952681106,
+      -91.53858355097788
+    ]
+  },
+  "imu parking meters": {
+    "address": "125 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66333565555114,
+      -91.53777053620603
+    ]
+  },
+  "lot 34": {
+    "address": "275 Melrose Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.65651514397779,
+      -91.54223366495769
+    ]
+  },
+  "cretzmeyer track and field complex": {
+    "address": "105 1st Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.66710660868286,
+      -91.56393360704242
+    ]
+  },
+  "aspire building a1 - 102 hawkeye court": {
+    "address": "102 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66478488071777,
+      -91.57310413419536
+    ]
+  },
+  "116 hawkeye court": {
+    "address": "116 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66514474168036,
+      -91.57173867237894
+    ]
+  },
+  "ui health care - north dodge": {
+    "address": "1360 N Dodge St, Iowa City, IA 52245",
+    "coordinates": [
+      41.677687012954266,
+      -91.51617898301369
+    ]
+  },
+  "biology building east, moped parking lot": {
+    "address": "30 N Dubuque St, Iowa City, IA 52242",
+    "coordinates": [
+      41.662205,
+      -91.532807
+    ]
+  },
+  "1110 n dubuque street": {
+    "address": "1110 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.6768438695273,
+      -91.53186413277822
+    ]
+  },
+  "medical laboratories": {
+    "address": "25 S Grand Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.661133300815386,
+      -91.5459039072294
+    ]
+  },
+  "medical education building": {
+    "address": "500 Newton Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.66252336356463,
+      -91.54645042448911
+    ]
+  },
+  "fairmont dallas": null,
+  "200 blk n madison st": {
+    "address": "200 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66365003161907,
+      -91.53764327466814
+    ]
+  },
+  "ui health care - holiday road": {
+    "address": "2591 Holiday Rd, Coralville, IA 52241",
+    "coordinates": [
+      41.70042442542433,
+      -91.60542348354957
+    ]
+  },
+  "iowa river landing": {
+    "address": "160 E 9th St, Coralville, IA 52241",
+    "coordinates": [
+      41.681757120890296,
+      -91.56312001653988
+    ]
+  },
+  "pappajohn biomedical discovery building": {
+    "address": "169 Newton Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.662630298204455,
+      -91.54402591802096
+    ]
+  },
+  "350 n madison street": {
+    "address": "350 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66519523755114,
+      -91.53725903600517
+    ]
+  },
+  "sorority": null,
+  "burge hall": {
+    "address": "301 N Clinton St, Iowa City, IA 52242",
+    "coordinates": [
+      41.664908592593264,
+      -91.53562323840895
+    ]
+  },
+  "pappajohn business building": {
+    "address": "21 E Market St, Iowa City, IA 52242",
+    "coordinates": [
+      41.66327910496649,
+      -91.53511941925609
+    ]
+  },
+  "aspire building b2": {
+    "address": "172 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.666067048470325,
+      -91.57260728068948
+    ]
+  },
+  "psychological and brain sciences building": {
+    "address": "340 Iowa Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.661537557012075,
+      -91.53062803341113
+    ]
+  },
+  "college of nursing building": {
+    "address": "50 Newton Rd, Iowa City, IA 52246",
+    "coordinates": [
+      41.66192202896373,
+      -91.5430151605821
+    ]
+  },
+  "iowa memorial union parking ramp": {
+    "address": "120 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.663229246393186,
+      -91.53729157369655
+    ]
+  },
+  "jessup hall, exterior": {
+    "address": "5 W Jefferson St, Iowa City, IA 52240",
+    "coordinates": [
+      41.6619048534785,
+      -91.536350963057
+    ]
+  },
+  "hubbard park": {
+    "address": "125 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66188280827081,
+      -91.53854302347696
+    ]
+  },
+  "300 blk n madison st": {
+    "address": "300 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.664723477016665,
+      -91.53756109786057
+    ]
+  },
+  "institute for orthopedics, sports medicine and rehabilitation ui sports medicine": {
+    "address": "2701 Prairie Meadow Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.65970119383483,
+      -91.57820966447659
+    ]
+  },
+  "hospital parking ramp 2": {
+    "address": "200 Hawkins Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.65916461582809,
+      -91.54902716112765
+    ]
+  },
+  "iowa river landing ambulatory care facility": {
+    "address": "105 E 9th St, Coralville, IA 52241",
+    "coordinates": [
+      41.682227903614624,
+      -91.56384893505218
+    ]
+  },
+  "kappa kappa gamma": {
+    "address": "728 E Washington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66026421871522,
+      -91.52461074155677
+    ]
+  },
+  "iowa river landing east": {
+    "address": "920 E 2nd Ave, Coralville, IA 52241",
+    "coordinates": [
+      41.682910635117565,
+      -91.56271626253522
+    ]
+  },
+  "hardin library for health sciences": {
+    "address": "600 Newton Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.662417246667964,
+      -91.54756861916326
+    ]
+  },
+  "newman catholic center": {
+    "address": "104 E Jefferson St, Iowa City, IA 52245",
+    "coordinates": [
+      41.662687397935755,
+      -91.53425516282127
+    ]
+  },
+  "east side residence hall": {
+    "address": "301 N Clinton St, Iowa City, IA 52242",
+    "coordinates": [
+      41.66493221420218,
+      -91.53563393479783
+    ]
+  },
+  "lot 55 - hancher": {
+    "address": "252 N Riverside Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.66908359034768,
+      -91.53926651520078
+    ]
+  },
+  "old capitol": {
+    "address": "21 N Clinton St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66131497636101,
+      -91.53613635477157
+    ]
+  },
+  "109 east market street": {
+    "address": "109 E Market St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66334305913432,
+      -91.5340903329103
+    ]
+  },
+  "woolf avenue court apartments": {
+    "address": "8 Woolf Ave Court, Iowa City, IA 52246",
+    "coordinates": [
+      41.66414663213449,
+      -91.55017616585445
+    ]
+  },
+  "aspire building b5 - 228 hawkeye court": {
+    "address": "228 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66753646908778,
+      -91.5734193593247
+    ]
+  },
+  "10 blk n clinton st": {
+    "address": "10 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66155694325179,
+      -91.53415602616582
+    ]
+  },
+  "gloria dei lutheran church": {
+    "address": "123 E Market St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66328980283004,
+      -91.53352681260381
+    ]
+  },
+  "dey house": {
+    "address": "507 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.667293600535686,
+      -91.53521891884704
+    ]
+  },
+  "800 blk w newton rd": {
+    "address": "800 Newton Rd, Iowa City, IA 52246",
+    "coordinates": [
+      41.6632440864074,
+      -91.55013944768305
+    ]
+  },
+  "100 blk s gilbert st": {
+    "address": "100 S Gilbert St, Iowa City, IA 52240",
+    "coordinates": [
+      41.6600154407568,
+      -91.53018626378791
+    ]
+  },
+  "west residential hall": {
+    "address": "Hillcrest Residence Hall, 25 Byington Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.65931118936797,
+      -91.54296503185358
+    ]
+  },
+  "hope lodge": {
+    "address": "750 Hawkins Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.66418693256414,
+      -91.55636672502759
+    ]
+  },
+  "10 blk e burlington st": {
+    "address": "10 E Burlington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65815998704087,
+      -91.5360384746684
+    ]
+  },
+  "aspire building b3": {
+    "address": "204 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.6666929746276,
+      -91.57328770014426
+    ]
+  },
+  "500 blk s riverside dr": {
+    "address": "500 S Riverside Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.6536934875972,
+      -91.5404597323403
+    ]
+  },
+  "100 blk s riverside dr": {
+    "address": "100 S Riverside Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.66070707127188,
+      -91.54213406117573
+    ]
+  },
+  "art building west": {
+    "address": "141 N Riverside Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.66519315637897,
+      -91.54157893233977
+    ]
+  },
+  "north hall, exterior": {
+    "address": "20 Davenport St, Iowa City, IA 52242",
+    "coordinates": [
+      41.666019376883014,
+      -91.53625857416918
+    ]
+  },
+  "400 blk e burlington st": {
+    "address": "400-450 E Burlington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.6581111712721,
+      -91.52968563234002
+    ]
+  },
+  "200 hawkins dr": {
+    "address": "200 Hawkins Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.65912599250637,
+      -91.548072639685
+    ]
+  },
+  "nagle family clubhouse": {
+    "address": "1380 Melrose Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.65710573487795,
+      -91.56441221699689
+    ]
+  },
+  "sigma phi epsilon": {
+    "address": "702 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66924452332325,
+      -91.5326456561775
+    ]
+  },
+  "catlett residence hall": {
+    "address": "350 N Madison St, Iowa City, IA 52242",
+    "coordinates": [
+      41.665210589884595,
+      -91.5372798624086
+    ]
+  },
+  "fleet services": {
+    "address": "175 Prairie Meadow Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.66113497895784,
+      -91.58040531803985
+    ]
+  },
+  "hospital parking ramp 1, bike rack": {
+    "address": "Parking Ramp 1, Iowa City, IA 52242",
+    "coordinates": [
+      41.66099228906554,
+      -91.54900807637753
+    ]
+  },
+  "ronald mcdonald house": {
+    "address": "730 Hawkins Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.663032797903064,
+      -91.55631497868984
+    ]
+  },
+  "1500 associates drive,": null,
+  "chemistry building, bike rack": {
+    "address": "230 N Madison St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66399512992152,
+      -91.53624443938233
+    ]
+  },
+  "202 4th avenue": {
+    "address": "202 4th Ave, Coralville, IA 52241",
+    "coordinates": [
+      41.6709981137856,
+      -91.5721492188469
+    ]
+  },
+  "university services building": {
+    "address": "1 W Prentiss St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65413468518162,
+      -91.5368913802208
+    ]
+  },
+  "100 blk e church st": {
+    "address": "100 Church St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66800530035833,
+      -91.53450636117542
+    ]
+  },
+  "1100 blk n dubuque st": {
+    "address": "1100 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.674926902224584,
+      -91.53142647644924
+    ]
+  },
+  "water plant": {
+    "address": "208 W Burlington St, Iowa City, IA 52242",
+    "coordinates": [
+      41.65856574039515,
+      -91.53998512978639
+    ]
+  },
+  "ui health care coralville heartland drive": {
+    "address": "2769 Heartland Dr, Coralville, IA 52241",
+    "coordinates": [
+      41.701908599290455,
+      -91.61026240703049
+    ]
+  },
+  "public policy research building": {
+    "address": "605 E Jefferson St, Iowa City, IA 52245",
+    "coordinates": [
+      41.662121745338354,
+      -91.52690293231153
+    ]
+  },
+  "general hospital,": {
+    "address": "220 Hawkins Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.66085247714123,
+      -91.54765519256405
+    ]
+  },
+  "schaeffer hall, exterior": {
+    "address": "20 E Washington St, Iowa City, IA 52242",
+    "coordinates": [
+      41.66069716678105,
+      -91.53539137722267
+    ]
+  },
+  "100 blk w park rd": {
+    "address": "100 Park Rd, Iowa City, IA 52246",
+    "coordinates": [
+      41.67163995283948,
+      -91.54190802266164
+    ]
+  },
+  "320 grand avenue, nite ride": {
+    "address": "320 Grand Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.65905685657435,
+      -91.54518697928857
+    ]
+  },
+  "lot 55 - hancher, cambus": {
+    "address": "252 N Riverside Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.66867029495511,
+      -91.53922208524685
+    ]
+  },
+  "iowa memorial union": {
+    "address": "125 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66308547317085,
+      -91.53804064565279
+    ]
+  },
+  "10 blk e bloomington st": {
+    "address": "10 E Bloomington St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66472453297281,
+      -91.53453907229823
+    ]
+  },
+  "100 blk n riverside dr": {
+    "address": "100 N Riverside Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.66366568235882,
+      -91.54153838192647
+    ]
+  },
+  "stanley hall": {
+    "address": "100 Stanley Hall, Iowa City, IA 52242",
+    "coordinates": [
+      41.666207947168864,
+      -91.53585470784718
+    ]
+  },
+  "doubletree": null,
+  "400 blk melrose ave": {
+    "address": "400 Melrose Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.65707365496403,
+      -91.544468706344
+    ]
+  },
+  "1518 mulberry avenue": null,
+  "300 blk s madison st": {
+    "address": "300 S Madison St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65790527127215,
+      -91.53774586117586
+    ]
+  },
+  "uihc coralville heartland drive": {
+    "address": "2769 Heartland Dr, Coralville, IA 52241",
+    "coordinates": [
+      41.701908599290455,
+      -91.61026240703049
+    ]
+  },
+  "100 blk w grand ave": {
+    "address": "100 Grand Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.65815048495301,
+      -91.54198300136767
+    ]
+  },
+  "350 n madison": {
+    "address": "350 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66520057127129,
+      -91.53727047466806
+    ]
+  },
+  "gibson square": {
+    "address": "160 W Burlington St, Iowa City, IA 52242",
+    "coordinates": [
+      41.65843941014541,
+      -91.53860532836987
+    ]
+  },
+  "obermann center": {
+    "address": "111 Church St, Iowa City, IA 52242",
+    "coordinates": [
+      41.6677592155842,
+      -91.53381270341556
+    ]
+  },
+  "voxman music building, exterior": {
+    "address": "93 E Burlington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65772800058675,
+      -91.53482651870438
+    ]
+  },
+  "158 hawkeye ct, parking lot": {
+    "address": "158 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.666375135436866,
+      -91.57198890393904
+    ]
+  },
+  "east parking lot, oakdale": {
+    "address": "East Lot, Coralville, IA 52241",
+    "coordinates": [
+      41.70458958440688,
+      -91.59704242937144
+    ]
+  },
+  "228 hawkeye court": {
+    "address": "228 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.667548938232,
+      -91.57342410108147
+    ]
+  },
+  "child health specialty clinic - dubuque": null,
+  "100 blk e bloomington st": {
+    "address": "100 E Bloomington St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66472708217866,
+      -91.53453427464515
+    ]
+  },
+  "rocky shore dr/hwy 6": {
+    "address": "6 Rocky Shore Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.66594036117196,
+      -91.55803000574694
+    ]
+  },
+  "lot 46": {
+    "address": "Lot 46, Iowa City, IA 52246",
+    "coordinates": [
+      41.66370045033421,
+      -91.55574198976602
+    ]
+  },
+  "college of public health building, bike rack": {
+    "address": "145 N Riverside Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.66374408125976,
+      -91.5417027319674
+    ]
+  },
+  "200 blk w burlington st": {
+    "address": "200 W Burlington St, Iowa City, IA 52242",
+    "coordinates": [
+      41.65831819613979,
+      -91.53948866841107
+    ]
+  },
+  "lot 14": {
+    "address": "130 Grand Ave Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.657214486010545,
+      -91.54524152140927
+    ]
+  },
+  "pappajohn biomedical discovery building, exterior": {
+    "address": "169 Newton Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.662595620700934,
+      -91.54373295236391
+    ]
+  },
+  "200 blk w melrose ave": {
+    "address": "200 Melrose Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.656916441288786,
+      -91.54370244766268
+    ]
+  },
+  "alpha delta pi": {
+    "address": "111 E Bloomington St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66449681217354,
+      -91.53379457902038
+    ]
+  },
+  "presidents residence, exterior": {
+    "address": "102 Church St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66808659127455,
+      -91.5342161160914
+    ]
+  },
+  "ui health care - scott boulevard": {
+    "address": "3640 Middlebury Rd, Iowa City, IA 52245",
+    "coordinates": [
+      41.667932164633314,
+      -91.4816023835101
+    ]
+  },
+  "halsey hall": {
+    "address": "28 W Jefferson St, Iowa City, IA 52240",
+    "coordinates": [
+      41.662823280666004,
+      -91.53723111481989
+    ]
+  },
+  "pomerantz center": {
+    "address": "213 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66393151642539,
+      -91.53572993233982
+    ]
+  },
+  "aspire maintenance shop": {
+    "address": "272 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66716600771192,
+      -91.57115097175284
+    ]
+  },
+  "bettendorf - lincoln road": null,
+  "shambaugh house": {
+    "address": "International Writing Program, 430 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66672163603121,
+      -91.53421606833803
+    ]
+  },
+  "lot 21 - pbb underground parking": {
+    "address": "21 E Market St, Iowa City, IA 52242",
+    "coordinates": [
+      41.663069250005414,
+      -91.53484066230045
+    ]
+  },
+  "200 blk s dubuque st": {
+    "address": "200 S Dubuque St, Iowa City, IA 52240",
+    "coordinates": [
+      41.658121409497795,
+      -91.53241818167085
+    ]
+  },
+  "220 s van buren st": {
+    "address": "220 S Van Buren St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65828803460087,
+      -91.52842342242694
+    ]
+  },
+  "325 grand avenue": {
+    "address": "325 Grand Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.658149925466745,
+      -91.54489348615303
+    ]
+  },
+  "sports medicine clinic": {
+    "address": " 2701 Prairie Meadow Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.65954506146561,
+      -91.578336751715
+    ]
+  },
+  "holiday inn": null,
+  "seamans center, exterior": {
+    "address": "103 S Capitol St, Iowa City, IA 52242",
+    "coordinates": [
+      41.659043031768185,
+      -91.53632788873806
+    ]
+  },
+  "main library": {
+    "address": "125 W Washington St, Iowa City, IA 52242",
+    "coordinates": [
+      41.659554477539615,
+      -91.53844942645443
+    ]
+  },
+  "jessup hall": {
+    "address": "5 W Jefferson St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66191888028342,
+      -91.53651726034127
+    ]
+  },
+  "10 blk s dubuque st": {
+    "address": "10 S Dubuque St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66093763330433,
+      -91.53301331585371
+    ]
+  },
+  "stanley hydraulics laboratory": {
+    "address": "320 Iowa Riv Corridor Trl, Iowa City, IA 52246",
+    "coordinates": [
+      41.657425482488286,
+      -91.54146764896815
+    ]
+  },
+  "158 hawkeye ct": {
+    "address": "158 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66711551871979,
+      -91.57232883180218
+    ]
+  },
+  "lot 92 - tower place ramp,": {
+    "address": "1 S Gilbert St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66100781288196,
+      -91.53118038161938
+    ]
+  },
+  "lot 18": {
+    "address": "450 N Madison St, Iowa City, IA 52242",
+    "coordinates": [
+      41.666158791985524,
+      -91.5371217945003
+    ]
+  },
+  "health care support services building": {
+    "address": "3281 Ridgeway Dr, Coralville, IA 52241",
+    "coordinates": [
+      41.71857138554615,
+      -91.60170019732912
+    ]
+  },
+  "maclean hall, exterior": {
+    "address": "2 W Washington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66062008673424,
+      -91.53646671699666
+    ]
+  },
+  "daum hall": {
+    "address": "225 N Clinton St, Iowa City, IA 52242",
+    "coordinates": [
+      41.664350401474294,
+      -91.53509392863832
+    ]
+  },
+  "lot 53": {
+    "address": "307 Melrose Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.655560730573676,
+      -91.54730358778166
+    ]
+  },
+  "westlawn": {
+    "address": "200 Newton Rd, Iowa City, IA 52246",
+    "coordinates": [
+      41.66302684652199,
+      -91.54289250989372
+    ]
+  },
+  "hancher footbridge west": {
+    "address": "141 Park Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.66795808328531,
+      -91.5367111447178
+    ]
+  },
+  "medical laboratories, bike rack": {
+    "address": "25 S Grand Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.660751427881316,
+      -91.54540706863781
+    ]
+  },
+  "800 blk w newton rd, cambus": {
+    "address": "800 Newton Rd, Iowa City, IA 52246",
+    "coordinates": [
+      41.6632440864074,
+      -91.55009653233981
+    ]
+  },
+  "300 blk s riverside dr": {
+    "address": "300 S Riverside Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.6571947215561,
+      -91.54135961579443
+    ]
+  },
+  "hawkeye tennis and recreation complex": {
+    "address": "2820 Prairie Meadow Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.66224827127151,
+      -91.57918704768313
+    ]
+  },
+  "204 hawkeye court,": {
+    "address": "204 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.666572741981,
+      -91.57330051343563
+    ]
+  },
+  "levitt center for university advancement": {
+    "address": "1 Park Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.67097792796914,
+      -91.53906707466784
+    ]
+  },
+  "grinnell dialysis unit": null,
+  "newton road ramp": {
+    "address": "426 Newton Rd, Iowa City, IA 52246",
+    "coordinates": [
+      41.6637100617538,
+      -91.54480674583233
+    ]
+  },
+  "iowa advanced technology laboratories": {
+    "address": "205 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.664110016358705,
+      -91.53782299425042
+    ]
+  },
+  "phillips hall, bike rack": {
+    "address": "16 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66177990668916,
+      -91.53439769149891
+    ]
+  },
+  "200 blk e washington st": {
+    "address": "200 E Washington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66012297127177,
+      -91.5331182323399
+    ]
+  },
+  "10 blk n dubuque st": {
+    "address": "10 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66132680819538,
+      -91.53268315114153
+    ]
+  },
+  "trowbridge hall": {
+    "address": "123 N Capitol St, Iowa City, IA 52242",
+    "coordinates": [
+      41.663364265712104,
+      -91.53658547282072
+    ]
+  },
+  "hospital parking ramp 4 east - mapf": {
+    "address": "Parking Ramp 4 39 For The Kids Way, Melrose Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.657822141337505,
+      -91.54726711536429
+    ]
+  },
+  "slater hall": {
+    "address": "325 Grand Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.65820726533252,
+      -91.5450748286587
+    ]
+  },
+  "200 blk s madison st": {
+    "address": "200 S Madison St, Iowa City, IA 52242",
+    "coordinates": [
+      41.658966351607454,
+      -91.53771533496123
+    ]
+  },
+  "independence road annex": null,
+  "ed parking lot": {
+    "address": "500 E Market St, Iowa City, IA 52245",
+    "coordinates": [
+      41.664029194484336,
+      -91.52786852134085
+    ]
+  },
+  "macbride hall": {
+    "address": "Macbride Hall, 17 N Clinton St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66191794739508,
+      -91.53565928224363
+    ]
+  },
+  "ui health care coralville heartland drive ,": {
+    "address": "2769 Heartland Dr, Coralville, IA 52241",
+    "coordinates": [
+      41.701908599290455,
+      -91.61026240703049
+    ]
+  },
+  "phillips hall, exterior": {
+    "address": "16 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.661595515299396,
+      -91.53438137545983
+    ]
+  },
+  "pomerantz family pavilion": {
+    "address": "720 Melrose Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.65743749240727,
+      -91.54878469338794
+    ]
+  },
+  "100 blk w burlington st": {
+    "address": "100 W Burlington St, Iowa City, IA 52242",
+    "coordinates": [
+      41.657929694968615,
+      -91.5390814746685
+    ]
+  },
+  "1000 blk w melrose ave": {
+    "address": "1000 Melrose Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.65707780050197,
+      -91.55337350262813
+    ]
+  },
+  "800 blk hawkins dr": {
+    "address": "800 Hawkins Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.65972035942634,
+      -91.54954746948688
+    ]
+  },
+  "25 byington road, e bike rack": {
+    "address": "25 Byington Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.659047782243505,
+      -91.5430579198728
+    ]
+  },
+  "wendell johnson speech and hearing center": {
+    "address": "250 Hawkins Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.660432288537436,
+      -91.54991745126185
+    ]
+  },
+  "clinton - child health specialty clinics": null,
+  "college of public health building": {
+    "address": "145 N Riverside Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.664305028218415,
+      -91.54244574738922
+    ]
+  },
+  "225 n clinton street": {
+    "address": "225 N Clinton St, Iowa City, IA 52242",
+    "coordinates": [
+      41.66449664691464,
+      -91.5352139991759
+    ]
+  },
+  "172 hawkeye court, bike rack": {
+    "address": "172 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66569722198851,
+      -91.57243542301352
+    ]
+  },
+  "eckstein medical research building, exterior": {
+    "address": "431 Newton Rd, Iowa City, IA 52246",
+    "coordinates": [
+      41.66176695677157,
+      -91.54581886276621
+    ]
+  },
+  "hillcrest hall": {
+    "address": "100 Hillcrest Hall, Iowa City, IA 52242",
+    "coordinates": [
+      41.65921829775769,
+      -91.54242427587376
+    ]
+  },
+  "320 grand avenue": {
+    "address": "320 Grand Ave, Iowa City, IA 52242",
+    "coordinates": [
+      41.658852560635175,
+      -91.5451006168585
+    ]
+  },
+  "blank honors center, bike rack": {
+    "address": "221 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66464260920232,
+      -91.53577310969405
+    ]
+  },
+  "lot 39 - hawkeye storage": {
+    "address": "Hawkeye Commuter Lot, 3350 Hawkeye Park Rd, Iowa City, IA 52246",
+    "coordinates": [
+      41.662278508932715,
+      -91.58423741289855
+    ]
+  },
+  "hospital parking ramp 1": {
+    "address": "Parking Ramp 1, Iowa City, IA 52242",
+    "coordinates": [
+      41.66098889079417,
+      -91.54901327551481
+    ]
+  },
+  "voxman music building": {
+    "address": "93 E Burlington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65755406146768,
+      -91.53495520165359
+    ]
+  },
+  "144 hawkeye court, bike rack": {
+    "address": "144 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.665353950412616,
+      -91.57310138336754
+    ]
+  },
+  "158 hawkeye ct,": {
+    "address": "158 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.667156443081325,
+      -91.57233652989986
+    ]
+  },
+  "100 blk e iowa ave": {
+    "address": "100 Iowa Ave, Iowa City, IA 52240",
+    "coordinates": [
+      41.66127661785108,
+      -91.53461502968487
+    ]
+  },
+  "200 blk e iowa ave,": {
+    "address": "200 Iowa Ave, Iowa City, IA 52240",
+    "coordinates": [
+      41.66126421033519,
+      -91.53308357885285
+    ]
+  },
+  "lot 43 n": {
+    "address": "1050 Evashevski Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.658981176889135,
+      -91.55271590292872
+    ]
+  },
+  "main library, exterior": {
+    "address": "125 W Washington St, Iowa City, IA 52242",
+    "coordinates": [
+      41.65900097168349,
+      -91.5384674982344
+    ]
+  },
+  "lot 89 - dodge street ramp": {
+    "address": "209 N Dodge St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66383564820338,
+      -91.5265468267802
+    ]
+  },
+  "lot 43 n,": {
+    "address": "1050 Evashevski Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.658981176889135,
+      -91.55271590292872
+    ]
+  },
+  "main library, sidewalk": {
+    "address": "125 W Washington St, Iowa City, IA 52242",
+    "coordinates": [
+      41.65945504221437,
+      -91.53783009439272
+    ]
+  },
+  "mayflower": {
+    "address": "100 Mayflower Hall, Iowa City, IA 52242",
+    "coordinates": [
+      41.67683811257975,
+      -91.53188521487664
+    ]
+  },
+  "maclean hall": {
+    "address": "2 W Washington St, Iowa City, IA 52240",
+    "coordinates": [
+      41.660618500452806,
+      -91.53649848118012
+    ]
+  },
+  "aspire building b1 - 144 hawkeye court": {
+    "address": "144 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66536310336026,
+      -91.57308272376595
+    ]
+  },
+  "north campus parking ramp": {
+    "address": "340 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66556612972781,
+      -91.5367434175156
+    ]
+  },
+  "lot 28": {
+    "address": "190 N Riverside Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.666491241977106,
+      -91.54008967392592
+    ]
+  },
+  "300 blk n clinton st": {
+    "address": "300 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.6647247946532,
+      -91.53455646378876
+    ]
+  },
+  "macbride hall, exterior": {
+    "address": "Macbride Hall, 17 N Clinton St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66191794739508,
+      -91.53565928224363
+    ]
+  },
+  "lot 12 - court street ramp": {
+    "address": "150E W Court St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65736102214172,
+      -91.53352595741748
+    ]
+  },
+  "100 blk hawkins dr": {
+    "address": "100 Hawkins Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.661501512627865,
+      -91.54985203445212
+    ]
+  },
+  "parklawn hall": {
+    "address": "100 Parklawn Hall, Iowa City, IA 52242",
+    "coordinates": [
+      41.67083497946532,
+      -91.54065680612905
+    ]
+  },
+  "schaeffer hall, bike rack": {
+    "address": "20 E Washington St, Iowa City, IA 52242",
+    "coordinates": [
+      41.66031176073437,
+      -91.53555327825616
+    ]
+  },
+  "10 blk s linn st": {
+    "address": "10 S Linn St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66090767104992,
+      -91.53151313306051
+    ]
+  },
+  "anne cleary walkway": {
+    "address": "10 W Market St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66361985898257,
+      -91.53612165171188
+    ]
+  },
+  "10 e davenport street": {
+    "address": "10 E Davenport St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66635591214397,
+      -91.53583395469937
+    ]
+  },
+  "300 blk e jefferson st": {
+    "address": "300 E Jefferson St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66245619642441,
+      -91.53161921288009
+    ]
+  },
+  "chi omega": {
+    "address": "804 Iowa Ave, Iowa City, IA 52240",
+    "coordinates": [
+      41.66156901117337,
+      -91.52395929886298
+    ]
+  },
+  "200 blk hawkins dr": {
+    "address": "200 Hawkins Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.65909215451598,
+      -91.54797609773672
+    ]
+  },
+  "multi-tenant facility": {
+    "address": "2501 Crosspark Rd, Coralville, IA 52241",
+    "coordinates": [
+      41.70992431635172,
+      -91.6043583531945
+    ]
+  },
+  "lot 85 - hawkeye commuter lot": {
+    "address": "3350 Hawkeye Park Rd, Iowa City, IA 52246",
+    "coordinates": [
+      41.66281628514173,
+      -91.58335561721287
+    ]
+  },
+  "300 blk n gilbert street": {
+    "address": "300 N Gilbert St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66466908784562,
+      -91.53014129076513
+    ]
+  },
+  "coa cantina": {
+    "address": "18 1/2 S Clinton St, Iowa City, IA 52240",
+    "coordinates": [
+      41.6606521450071,
+      -91.53437613195888
+    ]
+  },
+  "medical education research facility, bike rack": {
+    "address": "375 Newton Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.66321245753977,
+      -91.5452256767211
+    ]
+  },
+  "ui bioventures center": {
+    "address": "2500 Crosspark Rd, Coralville, IA 52241",
+    "coordinates": [
+      41.70889633453753,
+      -91.60640718685491
+    ]
+  },
+  "lot 25": {
+    "address": "480 S Riverside Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.654450808162224,
+      -91.54040202375124
+    ]
+  },
+  "pentacrest": {
+    "address": "University Of Iowa, Old Capitol, 21 N Clinton St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66131164861883,
+      -91.53567859237667
+    ]
+  },
+  "90 2nd street": {
+    "address": "90 2nd St, Iowa City, IA 52246",
+    "coordinates": [
+      41.66813005342142,
+      -91.56351927276293
+    ]
+  },
+  "200 blk e market st": {
+    "address": "200 E Market St, Iowa City, IA 52245",
+    "coordinates": [
+      41.6635819304494,
+      -91.53306273339713
+    ]
+  },
+  "lot 3 - library lot": {
+    "address": "123 Museum Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.65982989111279,
+      -91.53983021106995
+    ]
+  },
+  "25 byington road": {
+    "address": "25 Byington Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.65927269989859,
+      -91.54284228244046
+    ]
+  },
+  "lot 62 - capitol street ramp,": {
+    "address": "220S N Capitol St, Iowa City, IA 52240",
+    "coordinates": [
+      41.658312768780625,
+      -91.53544551800978
+    ]
+  },
+  "100 blk w melrose ave": {
+    "address": "100 Melrose Pl, Iowa City, IA 52246",
+    "coordinates": [
+      41.65688157628177,
+      -91.54967347245264
+    ]
+  },
+  "lot 74 - mossman lot": null,
+  "laundry": null,
+  "van allen hall, loading dock": {
+    "address": "30 N Dubuque St, Iowa City, IA 52242",
+    "coordinates": [
+      41.66206649008377,
+      -91.53221364557139
+    ]
+  },
+  "500 blk e market st": {
+    "address": "500 E Market St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66403803122851,
+      -91.52787079580136
+    ]
+  },
+  "100 blk s capitol street": {
+    "address": "100 S Capitol St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66011955914446,
+      -91.53615970282269
+    ]
+  },
+  "400 blk s riverside dr": {
+    "address": "400 S Riverside Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.65576501214562,
+      -91.54107296362785
+    ]
+  },
+  "200 blk s gilbert st": {
+    "address": "200 S Gilbert St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65895635417275,
+      -91.53019462551121
+    ]
+  },
+  "aspire building b5 - 228 hawkeye court ,": {
+    "address": "228 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66759646738751,
+      -91.57345810925496
+    ]
+  },
+  "iowa memorial union, exterior door": {
+    "address": "125 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66307542908066,
+      -91.53781248576172
+    ]
+  },
+  "900 blk n dubuque st": {
+    "address": "900 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.67373904389967,
+      -91.53171037578419
+    ]
+  },
+  "aspire building": {
+    "address": "158 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66722090818429,
+      -91.57283673128389
+    ]
+  },
+  "100 blk n dubuque st": {
+    "address": "100 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.662464137129156,
+      -91.53308723180366
+    ]
+  },
+  "400 blk n dubuque st": {
+    "address": "400 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66579014324259,
+      -91.53304224702548
+    ]
+  },
+  "lot 72 - dubuque street ramp,": {
+    "address": "220 S Dubuque St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65817373214401,
+      -91.53269088360574
+    ]
+  },
+  "old capitol, exterior": {
+    "address": "21 N Clinton St, Iowa City, IA 52240",
+    "coordinates": [
+      41.66131700895257,
+      -91.53639825463236
+    ]
+  },
+  "hancher auditorium": {
+    "address": "141 Park Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.67016275279674,
+      -91.53764255255959
+    ]
+  },
+  "204 n dubuque st, casey's": {
+    "address": "204 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66400825171468,
+      -91.53271666448354
+    ]
+  },
+  "301 n clinton street, bike rack": {
+    "address": "301 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.664814319466146,
+      -91.53494318328895
+    ]
+  },
+  "medical education building, bike rack": {
+    "address": "500 Newton Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.6622682104889,
+      -91.54652080599764
+    ]
+  },
+  "field house": {
+    "address": "225 S Grand Ave, Iowa City, IA 52240",
+    "coordinates": [
+      41.65854374651783,
+      -91.5466023993443
+    ]
+  },
+  "ashton cross country course": {
+    "address": "Ashton Cross-Country Course, Iowa City, IA 52246",
+    "coordinates": [
+      41.66820215796046,
+      -91.58564658637505
+    ]
+  },
+  "lot 48 - myrtle lot": {
+    "address": "300 Myrtle Ave, Iowa City, IA 52246",
+    "coordinates": [
+      41.654312087298955,
+      -91.54293957912164
+    ]
+  },
+  "west campus transportation center": {
+    "address": "840 Evashevski Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.65974476355435,
+      -91.55187823743246
+    ]
+  },
+  "field house, exterior": {
+    "address": "225 S Grand Ave, Iowa City, IA 52240",
+    "coordinates": [
+      41.6582789700038,
+      -91.54623236840433
+    ]
+  },
+  "900 blk w newton rd": {
+    "address": "360 Newton Rd, Iowa City, IA 52246",
+    "coordinates": [
+      41.66351116813782,
+      -91.54486503355021
+    ]
+  },
+  "ui health care medical center north liberty": {
+    "address": "701 W Forevergreen Rd, North Liberty, IA 52317",
+    "coordinates": [
+      41.72138510270721,
+      -91.61058442823668
+    ]
+  },
+  "aspire building a1": {
+    "address": "102 Hawkeye Ct, Iowa City, IA 52246",
+    "coordinates": [
+      41.66478488071777,
+      -91.57310413419536
+    ]
+  },
+  "danforth chapel": {
+    "address": "125 N Madison St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66231195241484,
+      -91.53937274372593
+    ]
+  },
+  "lot 37": {
+    "address": "992 Evashevski Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.65907596604752,
+      -91.55467377273543
+    ]
+  },
+  "700 blk n dubuque st": {
+    "address": "700 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66910775279743,
+      -91.53299986409337
+    ]
+  },
+  "200 blk n clinton st": {
+    "address": "200 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.663595323081275,
+      -91.53457518331142
+    ]
+  },
+  "sciences library": {
+    "address": "120 Iowa Ave, Iowa City, IA 52240",
+    "coordinates": [
+      41.66204572281077,
+      -91.53383019031449
+    ]
+  },
+  "eckstein medical research building": {
+    "address": "431 Newton Rd, Iowa City, IA 52246",
+    "coordinates": [
+      41.66168747893633,
+      -91.54578131942858
+    ]
+  },
+  "700 blk w newton rd": {
+    "address": "700 Newton Rd, Iowa City, IA 52242",
+    "coordinates": [
+      41.66251268192132,
+      -91.54909745981324
+    ]
+  },
+  "200 blk s riverside dr": {
+    "address": "200 S Riverside Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.65799080285261,
+      -91.54180063234007
+    ]
+  },
+  "200blk hawkins dr": {
+    "address": "200 Hawkins Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.65926578504099,
+      -91.54983435045179
+    ]
+  },
+  "hawkeye indoor track facility": {
+    "address": "930 Evashevski Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.65946756567166,
+      -91.55346131994928
+    ]
+  },
+  "biology building": {
+    "address": "30 N Dubuque St, Iowa City, IA 52242",
+    "coordinates": [
+      41.662205,
+      -91.532807
+    ]
+  },
+  "10 blk n gilbert st": {
+    "address": "10 N Gilbert St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66139340981662,
+      -91.52993769001158
+    ]
+  },
+  "hansen football performance center": {
+    "address": "992 Evashevski Dr, Iowa City, IA 52246",
+    "coordinates": [
+      41.659155918209315,
+      -91.55430117466842
+    ]
+  },
+  "ui health care medical center north liberty,": {
+    "address": "701 W Forevergreen Rd, North Liberty, IA 52317",
+    "coordinates": [
+      41.72126711504919,
+      -91.61051624499268
+    ]
+  },
+  "clinton street building": {
+    "address": "700 S Clinton St, Iowa City, IA 52240",
+    "coordinates": [
+      41.65272961469835,
+      -91.53448795478035
+    ]
+  },
+  "200 blk w iowa ave": {
+    "address": "200 W Iowa Ave, Iowa City, IA 52245",
+    "coordinates": [
+      41.661273251881006,
+      -91.5404799409756
+    ]
+  },
+  "16 n clinton st": {
+    "address": "16 N Clinton St, Iowa City, IA 52245",
+    "coordinates": [
+      41.66175417026404,
+      -91.53413790438547
+    ]
+  },
+  "200 blk n dubuque st": {
+    "address": "200 N Dubuque St, Iowa City, IA 52245",
+    "coordinates": [
+      41.663578868961004,
+      -91.53307335488252
+    ]
+  },
+  "lot 71": {
+    "address": "2575 Prairie Meadow Dr, Iowa City, IA 52242",
+    "coordinates": [
+      41.65947637730049,
+      -91.57627606785634
+    ]
+  }
+}

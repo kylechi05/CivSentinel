@@ -1,0 +1,35 @@
+# dependencies
+node_modules
+
+# next.js
+/client/.next/
+/client/out/
+
+# debug
+/client/npm-debug.log*
+/client/yarn-debug.log*
+/client/yarn-error.log*
+/client/.pnpm-debug.log*
+
+# misc
+/client/.DS_Store
+*.pem
+
+# vercel
+/client/.vercel
+
+# typescript
+/client/.tsbuildinfo
+/client/next-env.d.ts
+
+# python env
+/backend/.venv/
+
+# python caching and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# env files
+.env*

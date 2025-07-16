@@ -1,5 +1,6 @@
-import psycopg2
 import os
+
+import psycopg2
 from dotenv import load_dotenv
 
 load_dotenv(os.path.join(os.path.dirname(__file__), '../.env'))
@@ -14,7 +15,7 @@ connection = psycopg2.connect(
 
 cursor = connection.cursor()
 
-sql = """
+sql = '''
 CREATE OR REPLACE FUNCTION reset_all_tables()
 RETURNS void AS $$
 DECLARE
@@ -29,10 +30,12 @@ BEGIN
     END LOOP;
 END;
 $$ LANGUAGE plpgsql SECURITY DEFINER;
-"""
+'''
 
 cursor.execute(sql)
 connection.commit()
 
 cursor.close()
 connection.close()
+
+print('Remote stored procedures successfully created.')

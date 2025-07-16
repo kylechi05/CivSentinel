@@ -1,22 +1,23 @@
-import json
 import os
 import re
+
 import pandas as pd
+from supabase import Client
 
-from utils.address import get_street_address, get_city, get_state, get_zip_code
-from utils.connection import get_client
-from utils.datetime import dateTimeOccurredToISO, dateReportedToISO
+from connection import get_client
+from utils.supabase.address import get_street_address, get_city, get_state, get_zip_code
+from utils.supabase.datetime import dateTimeOccurredToISO, dateReportedToISO
 
-def clear_database(client):
+def clear_database(client: Client) -> None:
     supabase = client
     try:
         supabase.rpc('reset_all_tables').execute()
 
-        print("Database cleared successfully.")
+        print('Database cleared successfully.')
     except Exception as e:
-        print(f"Error clearing database: {e}")
+        print(f'Error clearing database: {e}')
 
-def seed_mapping(mapping_df, client):
+def seed_mapping(mapping_df: pd.DataFrame, client: Client) -> None:
     supabase = client
     all_mappings = []
     
@@ -46,11 +47,11 @@ def seed_mapping(mapping_df, client):
 
         supabase.table('location_mapping').insert(all_mappings).execute()
     
-        print("Mapping seeded successfully.")
+        print('Mapping seeded successfully.')
     except Exception as e:
-        print(f"Error inserting mapping: {e}")
+        print(f'Error inserting mapping: {e}')
 
-def seed_crime_data(crime_df, client):
+def seed_crime_data(crime_df: pd.DataFrame, client: Client) -> None:
     supabase = client
     all_crimes = []
 
@@ -86,9 +87,9 @@ def seed_crime_data(crime_df, client):
 
         supabase.table('crimes').insert(all_crimes).execute()
 
-        print("Crime data seeded successfully.")
+        print('Crime data seeded successfully.')
     except Exception as e:
-        print(f"Error inserting crime data: {e}")
+        print(f'Error inserting crime data: {e}')
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))

@@ -1,0 +1,9 @@
+name: CivSentinel-Backend
+
+services:
+  scraper:
+    build:
+      context: .
+      dockerfile: scraper/Dockerfile
+    env_file:
+      - .env

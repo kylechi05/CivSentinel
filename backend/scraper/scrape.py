@@ -105,6 +105,7 @@ def main():
 
     latest_crime_associated_id = get_last_crime(supabase_client)
     insert_scraped_data(crimes, latest_crime_associated_id, supabase_client)
+    print('Data scraping completed')
 
 if __name__ == '__main__':
     main()

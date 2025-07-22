@@ -23,7 +23,7 @@ node_modules
 /client/next-env.d.ts
 
 # python env
-/backend/.venv/
+/backend/*/.venv/
 
 # python caching and bytecode
 __pycache__/

@@ -4,9 +4,9 @@ import re
 import pandas as pd
 from supabase import Client
 
-from connection import get_client
-from utils.supabase.address import get_street_address, get_city, get_state, get_zip_code
-from utils.supabase.datetime import dateTimeOccurredToISO, dateReportedToISO
+from utils.connection import get_client
+from utils.address import get_street_address, get_city, get_state, get_zip_code
+from utils.datetime import dateTimeOccurredToISO, dateReportedToISO
 
 def clear_database(client: Client) -> None:
     supabase = client

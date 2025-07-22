@@ -5,8 +5,8 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from supabase import Client
 
-from connection import get_client
-from utils.supabase.datetime import dateToCentralISO
+from utils.connection import get_client
+from utils.datetime import dateToCentralISO
 
 def get_page_soup() -> BeautifulSoup:
     response = requests.get('https://safety.uiowa.edu/crime-log')
@@ -97,7 +97,7 @@ def insert_scraped_data(scraped_crimes: list[str], latest_crime_associated_id: s
     if len(all_scraped_crimes) > 0:
         supabase.table('unlinked_crimes').insert(all_scraped_crimes).execute()
 
-def main():
+def run_scrape():
     supabase_client = get_client()
 
     soup = get_page_soup()
@@ -106,6 +106,3 @@ def main():
     latest_crime_associated_id = get_last_crime(supabase_client)
     insert_scraped_data(crimes, latest_crime_associated_id, supabase_client)
     print('Data scraping completed')
-
-if __name__ == '__main__':
-    main()

@@ -12,3 +12,6 @@ __pycache__/
 
 # git metadata
 .git/
+
+# vscode
+.vscode/

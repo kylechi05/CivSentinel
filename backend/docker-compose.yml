@@ -1,6 +1,11 @@
 name: CivSentinel-Backend
 
 services:
+  kafka:
+    build:
+      context: ./kafka
+      dockerfile: Dockerfile
+
   scraper:
     build:
       context: ./scraper

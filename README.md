@@ -1,11 +1,12 @@
-# Frontend - Next.js, TailwindCSS, Leaflet.js, deploeyd on Vercel
-# DL model - Python, PyTorch, SpatioTemporal GNN
-# Web Scraper - Selenium/Playwright
-# Queue Pipeline - Kafka
-# Database - Supabase
-# Data Caching - Redis
-# Containers - Docker
-# Backend Deployed on Fly.io/Render
+## Tasks
+- [ ] Frontend - Next.js, TailwindCSS, Leaflet.js, deploeyd on Vercel
+- [ ] DL model - Python, PyTorch, SpatioTemporal GNN
+- [x] Web Scraper - Requests, BeautifulSoup4, Supabase
+- [ ] Queue Pipeline - Kafka
+- [x] Database - Supabase
+- [ ] Data Caching - Redis
+- [x] Containers - Docker
+- [ ] Backend Deployed on Fly.io/Render
 
 # Thougths
 train model on chicago dataset, use transfer learning

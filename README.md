@@ -15,7 +15,9 @@
 #### DL model - Python, PyTorch, SpatioTemporal GNN
 - [ ] Train model
 - [ ] Deploy model
+- [ ] Consume Kafka model pings
 #### Data Caching - Redis
+- [ ] Use redis caching for frontend
 #### Containers - Docker, Kubernetes
 - [x] Containerize each service built
 - [x] Use docker compose for local development

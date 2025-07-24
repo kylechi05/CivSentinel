@@ -12,6 +12,6 @@ FROM eclipse-temurin:21
 
 WORKDIR /app
 
-COPY --from=build /app/target/kafka-1.0-SNAPSHOT.jar ./kafka-app.jar
+COPY --from=build /app/target/kafka-topics-1.0-SNAPSHOT.jar ./kafka-topics-app.jar
 
-CMD ["java", "-jar", "kafka-app.jar"]
+CMD ["java", "-jar", "kafka-topics-app.jar"]

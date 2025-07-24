@@ -42,4 +42,4 @@ __pycache__/
 **/target/
 
 # env files
-.env*
+*.env*

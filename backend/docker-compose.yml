@@ -1,12 +1,26 @@
 name: CivSentinel-Backend
 
 services:
-  kafka:
+  kafka_broker:
+    image: apache/kafka:latest
+    container_name: civsentinel-kafka
+    ports:
+      - "9092:9092"
+    env_file:
+      - kafka-broker.env
+
+  kafka_topics:
+    container_name: civsentinel-kafka-topics
+    depends_on:
+      - kafka_broker
     build:
-      context: ./kafka
+      context: ./kafka-topics
       dockerfile: Dockerfile
+    env_file:
+      - kafka-topics/.env
 
   scraper:
+    container_name: civsentinel-scraper
     build:
       context: ./scraper
       dockerfile: Dockerfile

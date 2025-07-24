@@ -3,7 +3,7 @@
 - [ ] Make app
 #### Database - Supabase
 - [x] Seed database with remote stored procedures and init data
-- [ ] - [ ] Create triggers for scraper data
+- [ ] Create triggers for scraper data
 #### Web Scraper - Requests, BeautifulSoup4, Supabase
 - [x] Create scraper
 - [x] Connect scraper to Supabase

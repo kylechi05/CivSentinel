@@ -94,8 +94,8 @@ def seed_crime_data(crime_df: pd.DataFrame, client: Client) -> None:
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
 
-    mapping_path = os.path.join(script_dir, '../datasets/raw/iowa_city/iowa_city_location_mapping.json')
-    raw_path = os.path.join(script_dir, '../datasets/raw/iowa_city/iowa_city_raw_6_29_2025.xlsx')
+    mapping_path = os.path.join(script_dir, './datasets/iowa_city/iowa_city_location_mapping.json')
+    raw_path = os.path.join(script_dir, './datasets/iowa_city/iowa_city_raw_6_29_2025.xlsx')
 
     mapping_df = pd.read_json(mapping_path)
     mapping_df = mapping_df.T

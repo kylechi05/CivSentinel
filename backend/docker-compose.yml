@@ -26,3 +26,14 @@ services:
       dockerfile: Dockerfile
     env_file:
       - scraper/.env
+
+  scraper_pinger:
+    container_name: civsentinel-scraper-pinger
+    build:
+      context: ./scraper-pinger
+      dockerfile: Dockerfile
+    env_file:
+      - scraper-pinger/.env
+    depends_on:
+      - kafka_broker
+      - kafka_topics

@@ -5,21 +5,26 @@ import org.apache.kafka.clients.admin.AdminClientConfig;
 import org.apache.kafka.clients.admin.NewTopic;
 
 import java.util.Collections;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Properties;
 import java.util.concurrent.ExecutionException;
 
-public class KafkaTopicsApp 
-{
-    public static void main( String[] args )
-    {
+public class KafkaTopicsApp {
+    public static void main(String[] args) {
         String bootstrapServers = System.getenv("KAFKA_BOOTSTRAP_SERVERS");
         String topicsStr = System.getenv("KAFKA_TOPICS");
         int partitions = Integer.parseInt(System.getenv("KAFKA_PARTITIONS"));
+        int retentionFactor = Integer.parseInt(System.getenv("KAFKA_REPLICATION_FACTOR"));
         short replicationFactor = Short.parseShort(System.getenv("KAFKA_REPLICATION_FACTOR"));
+
+        Map<String, String> topicsConfig = new HashMap<>();
 
         String[] topics = topicsStr.split(",");
 
         Properties config = new Properties();
+
+        topicsConfig.put("retention.ms", Integer.toString(retentionFactor));
         config.put(AdminClientConfig.BOOTSTRAP_SERVERS_CONFIG, bootstrapServers);
 
         try (AdminClient adminClient = AdminClient.create(config)) {

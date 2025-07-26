@@ -8,19 +8,33 @@ services:
       - "9092:9092"
     env_file:
       - kafka-broker.env
+    healthcheck:
+      test: ["CMD", "bash", "-c", "echo > /dev/tcp/kafka_broker/29092"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
 
   kafka_topics:
     container_name: civsentinel-kafka-topics
     depends_on:
-      - kafka_broker
+      kafka_broker:
+        condition: service_healthy
     build:
       context: ./kafka-topics
       dockerfile: Dockerfile
     env_file:
       - kafka-topics/.env
+    healthcheck:
+      test: ["CMD-SHELL", "echo 'Kafka topics initialized'"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
 
   scraper:
     container_name: civsentinel-scraper
+    depends_on:
+      kafka_topics:
+        condition: service_healthy
     build:
       context: ./scraper
       dockerfile: Dockerfile
@@ -29,11 +43,11 @@ services:
 
   scraper_pinger:
     container_name: civsentinel-scraper-pinger
+    depends_on:
+      kafka_topics:
+        condition: service_healthy
     build:
       context: ./scraper-pinger
       dockerfile: Dockerfile
     env_file:
       - scraper-pinger/.env
-    depends_on:
-      - kafka_broker
-      - kafka_topics

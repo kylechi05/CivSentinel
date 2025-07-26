@@ -3,15 +3,15 @@
 - [ ] Make app
 #### Database - Supabase
 - [x] Seed database with remote stored procedures and init data
-- [ ] Create triggers for scraper data
+- [x] Create triggers for scraper data
 #### Web Scraper - Requests, BeautifulSoup4, Supabase
 - [x] Create scraper
 - [x] Connect scraper to Supabase
-- [ ] Consume Kafka scraper pings
+- [x] Consume Kafka scraper pings
 #### Queue Pipeline - Kafka
 - [x] Setup Kafka
 - [x] Create Topics
-- [ ] Create Scraper pinger
+- [x] Create Scraper pinger
 #### DL model - Python, PyTorch, SpatioTemporal GNN
 - [ ] Train model
 - [ ] Deploy model

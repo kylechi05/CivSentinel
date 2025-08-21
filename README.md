@@ -1,6 +1,6 @@
 ## Tasks
 #### Frontend - Next.js, TailwindCSS, Leaflet.js, deploeyd on Vercel
-- [ ] Make app
+- [x] Make app
 #### Database - Supabase
 - [x] Seed database with remote stored procedures and init data
 - [x] Create triggers for scraper data
@@ -12,10 +12,11 @@
 - [x] Setup Kafka
 - [x] Create Topics
 - [x] Create Scraper pinger
+- [x] Create Model pinger
 #### DL model - Python, PyTorch, SpatioTemporal GNN
 - [x] Train model
 - [X] Consume Kafka model pings
-- [] Use model for predictions
+- [ ] Use model for predictions
 #### Data Caching - Redis
 - [ ] Use redis caching for frontend
 #### Containers - Docker, Kubernetes

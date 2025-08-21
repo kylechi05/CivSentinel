@@ -1,0 +1,11 @@
+# maven
+target/
+
+# env files
+.env*
+
+# git metadata
+.git/
+
+# vscode
+.vscode/

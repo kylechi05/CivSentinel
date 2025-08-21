@@ -1,0 +1,17 @@
+# python env
+.venv/
+
+# python caching and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# env files
+.env*
+
+# git metadata
+.git/
+
+# vscode
+.vscode/

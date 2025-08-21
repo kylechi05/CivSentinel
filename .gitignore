@@ -1,0 +1,52 @@
+# vscode
+.vscode/
+
+# node dependencies
+/client/node_modules
+
+# next.js
+/client/.next/
+/client/out/
+
+# debug
+/client/npm-debug.log*
+/client/yarn-debug.log*
+/client/yarn-error.log*
+/client/.pnpm-debug.log*
+
+# misc
+/client/.DS_Store
+*.pem
+
+# vercel
+/client/.vercel
+
+# typescript
+/client/.tsbuildinfo
+/client/next-env.d.ts
+
+# python venv
+/backend/*/.venv/
+
+# python caching and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# java class files
+*.class
+
+# maven
+!.mvn/wrapper/maven-wrapper.jar
+**/target/
+
+# env files
+*.env*
+
+# minikube deployment
+*/minikube/
+
+# datasets
+/backend/model/datasets/raw/
+/backend/seeds/datasets/iowa_city/
